@@ -1,5 +1,5 @@
 const LEAD_ENDPOINT =
-  'https://script.google.com/macros/s/AKfycbz5nSb9Z15oKxFl1ChKkVqG6tMHcxopNrmHtXODpqK7sJxHF4y7IocroaQN_ZEgjC5XhA/exec';
+  'https://script.google.com/macros/s/AKfycbysztFDbBsFtg4EaYsXujONh5Oa7KfrIO31ge9I6GwLWrodxsztPls6A4kyDpaAHxQiUA/exec';
 
 document.querySelector('#enquiry-form').addEventListener('submit', async (event) => {
   event.preventDefault();
