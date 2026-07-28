@@ -1,5 +1,5 @@
 const LEAD_ENDPOINT =
-  'https://script.google.com/macros/s/AKfycbysztFDbBsFtg4EaYsXujONh5Oa7KfrIO31ge9I6GwLWrodxsztPls6A4kyDpaAHxQiUA/exec';
+  'https://script.google.com/macros/s/AKfycbxrQedPoIJOC7abNtBQnKkXnEQm9H9GfV61oCA9lzcxKeAd0aFzxvVX8lMi5zp62JYymw/exec';
 
 const leadFrame = document.createElement('iframe');
 leadFrame.name = 'abhee-lead-sink';
